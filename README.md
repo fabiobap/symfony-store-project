@@ -1,4 +1,4 @@
-# symfony-api-consultorio
+# symfony-api-store
 
 
 A simple product/category store APi with symfony 2
